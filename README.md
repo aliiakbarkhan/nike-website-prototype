@@ -1,5 +1,5 @@
 # Nike Shoes Website Prototype 👟💻
-
+<img src = "Screenshots/Screenshot 2024-10-18 080503.png" width="100%" height="auto"/>
 ## Overview ✨
 This repository contains the Figma prototype for a **Nike Shoes Website**. The design is modern, user-friendly, and built to enhance the shopping experience. The prototype includes features like product showcasing, filtering, and a sleek checkout process.
 
@@ -10,16 +10,18 @@ This repository contains the Figma prototype for a **Nike Shoes Website**. The d
 - **Smooth Navigation**: Clean layout ensuring smooth interactions across the website.
 
 ## Prototype Preview 📱
-You can view the prototype on Figma using [this link](#).
+You can view the prototype on Figma using [this link](https://www.figma.com/community/file/1334538285445463278/shoes).
 
 ## Screenshots 📸
 Here are some key screenshots of the prototype:
 
 | Home Page | Product Page | Checkout Page |
 |:---------:|:------------:|:-------------:|
-| ![Home Page](path/to/home_page.png) | ![Product Page](path/to/product_page.png) | ![Checkout Page](path/to/checkout_page.png) |
+| <img src = "Screenshots/Screenshot 2024-10-18 080404.png"> | <img src = "Screenshots/Screenshot 2024-10-18 080444.png"> | <img src = "Screenshots/Screenshot 2024-10-18 080423.png"> |
 
-(Upload your images in the repository and update the file paths accordingly.)
+## Video 📸
+
+https://github.com/user-attachments/assets/e47a9667-eee3-4650-8949-c45216cdbbf4
 
 ## Files in the Repository 📂
 - **Prototype Files** (`.fig`): Figma project file showcasing the website design.
