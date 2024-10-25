@@ -1,5 +1,7 @@
 # Nike Shoes Website Prototype 👟💻
-<img src = "Screenshots/Screenshot 2024-10-18 080503.png" width="100%" height="auto"/>
+<img src = "Screenshots/Black Grey Aqua Grunge Gaming YouTube Banner (2).png" width="100%" height="auto"/>
+
+
 ## Overview ✨
 This repository contains the Figma prototype for a **Nike Shoes Website**. The design is modern, user-friendly, and built to enhance the shopping experience. The prototype includes features like product showcasing, filtering, and a sleek checkout process.
 
