@@ -1,3 +1,8 @@
+
+## All Rights Reserved.
+This repository and its contents are copyrighted. No part of this repository may be reproduced, distributed, or used without explicit permission from the owner.
+
+
 # Nike Shoes Website Prototype 👟💻
 <img src = "Screenshots/Black Grey Aqua Grunge Gaming YouTube Banner (2).png" width="100%" height="auto"/>
 
